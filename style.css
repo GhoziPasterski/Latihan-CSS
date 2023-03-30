@@ -1,0 +1,28 @@
+/* Belajar_css.html */
+#tabel-siswa {
+  border-collapse: collapse;
+  background: url(white-textured-concrete_125540-1826.jpg);
+
+  background-repeat: no-repeat;
+
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(0, 0, 0);
+
+  margin: auto;
+}
+.link {
+  color: red;
+  text-decoration: none;
+}
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: rgb(199, 247, 89);
+}
+#tabel-siswa h3 {
+  font-size: 32px;
+}
+#tabel-siswa h3 {
+  padding: 20px;
+}
+/* end of belajar_css.html */
